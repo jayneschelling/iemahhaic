@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bahlairoo.coderimage.com/sitemap.xml
